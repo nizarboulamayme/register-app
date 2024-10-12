@@ -33,7 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learning. See You Again. </h1>
-   <h1> Lehla Y7achmna. Jumuaa Mubarika. </h1>
+   <h1> Last Test for AUTOMATION CI/CD. </h1>
    
 </form>
